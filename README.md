@@ -11,3 +11,14 @@ Enjoy tweaking these algorithms and play around with ML, Neural Networks and Dee
 
 # Project 1- Linear Regression Alg.
 - building a predictive model for who can survive on the titanic
+# Project 2- CLassification Alg.
+- building an idenifying model to recognise the Species of Flower based on the characterisitcs provided.
+
+# Project 3-Hidden Markov Model
+- building a kind of probabilisitc model to predict the Weather
+
+# Project 4- Neural Networks
+- building an identifying model to collect input and randmnly print and display the Fashion item
+
+
+# tip to fire up the project : jupyter notebook --browser chrome or any browser of your choice
