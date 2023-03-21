@@ -22,3 +22,4 @@ Enjoy tweaking these algorithms and play around with ML, Neural Networks and Dee
 
 
 # tip to fire up the project : jupyter notebook --browser chrome or any browser of your choice
+when dealing with a node_module or package bug, always restart the enitire project and kernel after installation.
